@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Onthology</string>
+    <string name="edit_message">Запомнить</string>
+    <string name="title_activity_display_message">DisplayMessageActivity</string>
+    <string name="name">Name</string>
+    <string name="button">Button</string>
+</resources>
